@@ -19,11 +19,11 @@ p.author {
 
 p.disclaimer {
   display: block;
-    color: rgba(0,0, 0, .5);
+    color: rgba(0,0, 0, .7);
     font-family: Arial, Helvetica, sans-serif;
     font-size: 6pt;
     text-align: center;
     padding-bottom: 0px;
-    padding-top: 500px;
+    padding-top: 400px;
 
 }
